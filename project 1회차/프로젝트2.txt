@@ -1,0 +1,6 @@
+웹크롤링. request, BeautifulSoup 을 통해 데이터 수집을하고 excel를 통해 저장을 한다음(f = open('파일명.exls' ,'w')
+f.wirte('웹크롤링 한 변수') f.close()
+
+가공은 SQL을 통해서 
+ 
+파이썬 pandas를 통해서 시각화 
